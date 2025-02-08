@@ -10,9 +10,9 @@
 ## Resumo
 Este programa em Python processa um texto e realiza a soma de todos os números encontrados, com base em um comportamento que pode ser ativado ou desativado por palavras-chave:
 
-- **On**: Ativa o comportamento de soma (independente de maiúsculas ou minúsculas).
-- **Off**: Desativa o comportamento de soma.
-- **=**: Exibe o resultado da soma atual.
+- **On** : Ativa o comportamento de soma (independente de maiúsculas ou minúsculas).
+- **Off** : Desativa o comportamento de soma.
+- **=** : Exibe o resultado da soma atual.
 
 ---
 
