@@ -1,5 +1,7 @@
 # PL2025::A103998
 
+![Foto do Autor](https://avatars.githubusercontent.com/u/131169410?v=4) 
+
 ## Identificação
 - *Nome:* Pedro Manuel Dias Teixeira
 - *Número de Aluno:* A103998
