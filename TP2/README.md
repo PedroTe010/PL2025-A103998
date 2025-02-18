@@ -1,8 +1,8 @@
-# Resolução do TP1
+# Resolução do TP2
 
 ![Foto do Autor](https://avatars.githubusercontent.com/u/131169410?v=4) 
 
-### **Data:** 08 de Fevereiro de 2025  
+### **Data:** 18 de Fevereiro de 2025  
 ### **Autor:**  
 - **Nome:** Pedro Manuel Dias Teixeira
 - **Número de Aluno:** A103998
