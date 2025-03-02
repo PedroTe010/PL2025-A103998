@@ -29,4 +29,70 @@ select ?nome ?desc where {
 } LIMIT 1000
 ```
 
+Resultados:
+```
+[SELECT] -> select
+[None] ->
+[VARIABLE] -> ?nome
+[None] ->
+[VARIABLE] -> ?desc
+[None] ->
+[WHERE] -> where
+[None] ->
+[START] -> {
+[None] ->
+
+[VARIABLE] -> ?s
+[None] ->
+[COMPONENT] -> a
+[None] ->
+[CONNECTION] -> dbo:
+[COMPONENT] -> MusicalArtist
+[END OF QUERY] -> .
+[None] ->
+
+[VARIABLE] -> ?s
+[None] ->
+[CONNECTION] -> foaf:
+[COMPONENT] -> name
+[None] ->
+[STRING] -> "Chuck Berry"
+[LANGUAGE] -> @en
+[None] ->
+[END OF QUERY] -> .
+[None] ->
+
+[VARIABLE] -> ?w
+[None] ->
+[CONNECTION] -> dbo:
+[COMPONENT] -> artist
+[None] ->
+[VARIABLE] -> ?s
+[END OF QUERY] -> .
+[None] ->
+
+[VARIABLE] -> ?w
+[None] ->
+[CONNECTION] -> foaf:
+[COMPONENT] -> name
+[None] ->
+[VARIABLE] -> ?nome
+[END OF QUERY] -> .
+[None] ->
+
+[VARIABLE] -> ?w
+[None] ->
+[CONNECTION] -> dbo:
+[COMPONENT] -> abstract
+[None] ->
+[VARIABLE] -> ?desc
+[None] ->
+
+[END] -> }
+[None] ->
+[COMPONENT] -> LIMIT
+[None] ->
+[NUMBER] -> 1000
+```
+
 ---
